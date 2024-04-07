@@ -1,0 +1,3 @@
+Delay for incr: 1
+Delay for rewind: 7
+Delay for read/write: 5
